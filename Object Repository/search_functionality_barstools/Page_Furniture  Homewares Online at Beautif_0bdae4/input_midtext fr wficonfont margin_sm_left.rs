@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_midtext fr wficonfont margin_sm_left</name>
+   <tag></tag>
+   <elementGuidId>cd8c2fa3-e4d5-490e-a82e-c1d12f99cac7</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>midtext fr wficonfont margin_sm_left</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-click-track</name>
+      <type>Main</type>
+      <value>search_bar_button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-click-location</name>
+      <type>Main</type>
+      <value>Header_SearchButton</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-qa</name>
+      <type>Main</type>
+      <value>button-text-search</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value></value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;doc3&quot;)/div[@class=&quot;js-scroll-menu-container store-nav-wrap&quot;]/div[@class=&quot;store-nav-header clearfix&quot;]/div[@class=&quot;js-scroll-menu-mid-bar&quot;]/div[@class=&quot;js-autocomplete search-bar&quot;]/form[@class=&quot;js-search-wrap search-wrap  placeholder&quot;]/div[@class=&quot;headertable  js-search-border&quot;]/div[@class=&quot;js-autocomplete-container  bgcolorwhite&quot;]/div[@class=&quot;search-submit js-text-search-button&quot;]/input[@class=&quot;midtext fr wficonfont margin_sm_left&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
