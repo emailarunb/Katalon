@@ -18,7 +18,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.templeandwebster.com.au/')
+WebUI.navigateToUrl(GlobalVariable.URL_PROD)
 
 WebUI.setText(findTestObject('Object Repository/search_functionality_barstools/Page_Furniture  Homewares Online at Beautif_0bdae4/input_keyword'), 
     'bar stools')

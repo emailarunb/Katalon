@@ -18,7 +18,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.URL)
+WebUI.navigateToUrl(GlobalVariable.URL_PROD)
 
 WebUI.click(findTestObject('Object Repository/Sale_page/Page_Furniture  Homewares Online at Beautif_0bdae4/a_Sale'))
 

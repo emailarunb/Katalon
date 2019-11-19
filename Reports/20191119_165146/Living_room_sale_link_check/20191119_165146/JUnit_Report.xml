@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Living_room_sale_link_check" time="159.393" tests="3" failures="0" errors="0">
+   <testsuite name="Living_room_sale_link_check" tests="3" failures="0" errors="0" time="159.393" timestamp="2019-11-19 16:51:48" hostname="abharathan - TWNB112.buyster.local" id="Test Suites/Living_room_sale_link_check">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\abharathan\\git\\Katalon\\Reports\\20191119_165146\\Living_room_sale_link_check\\20191119_165146"/>
+         <property name="logFiles" value="C:\\Users\\abharathan\\git\\Katalon\\Reports\\20191119_165146\\Living_room_sale_link_check\\20191119_165146\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\abharathan\\git\\Katalon\\Reports\\20191119_165146\\Living_room_sale_link_check\\20191119_165146\\1574142794118.png, C:\\Users\\abharathan\\git\\Katalon\\Reports\\20191119_165146\\Living_room_sale_link_check\\20191119_165146\\1574142825675.png, C:\\Users\\abharathan\\git\\Katalon\\Reports\\20191119_165146\\Living_room_sale_link_check\\20191119_165146\\1574142858458.png"/>
+         <property name="hostName" value="abharathan - TWNB112.buyster.local"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.0.4.1"/>
+         <property name="browser" value="Chrome 65.0.3325.146"/>
+         <property name="hostAddress" value="192.168.33.126"/>
+         <property name="sessionId" value="5bc6a612c5f894471f785b3f97fdd90ab989a672"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Living_Room_Furniture_chrome_ff" time="20.677" classname="Test Cases/Living_Room_Furniture_chrome_ff" status="PASSED">
+         <system-out><![CDATA[2019-11-19 16:51:48 - [TEST_CASE][PASSED] - Test Cases/Living_Room_Furniture_chrome_ff: Test Cases/Living_Room_Furniture_chrome_ff
+
+2019-11-19 16:51:48 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-11-19 16:51:49 - [MESSAGE][INFO] - User set preference: ['os', 'Windows']
+
+2019-11-19 16:51:49 - [MESSAGE][INFO] - User set preference: ['os_version', '8.1']
+
+2019-11-19 16:51:49 - [MESSAGE][INFO] - User set preference: ['browser', 'Chrome']
+
+2019-11-19 16:51:49 - [MESSAGE][INFO] - User set preference: ['browser_version', '65.0']
+
+2019-11-19 16:51:49 - [MESSAGE][INFO] - User set preference: ['project', 'katalon-browserstack']
+
+2019-11-19 16:51:49 - [MESSAGE][INFO] - User set preference: ['name', 'katalon-test-suite-run']
+
+2019-11-19 16:51:49 - [MESSAGE][INFO] - Connecting to remote web server 'https://tempster:uEra7yo3oE873qt8ttbb@hub-cloud.browserstack.com/wd/hub' with type 'Selenium'
+
+2019-11-19 16:51:49 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-11-19 16:51:55 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-11-19 16:51:55 - [TEST_STEP][PASSED] - navigateToUrl(URL_PROD): Navigate to 'https://www.templeandwebster.com.au/' successfully
+
+2019-11-19 16:51:56 - [MESSAGE][PASSED] - Navigate to 'https://www.templeandwebster.com.au/' successfully
+
+2019-11-19 16:51:56 - [TEST_STEP][NOT_RUN] - click(findTestObject("Page_Furniture  Homewares Online at Beautiful Prices  Temple  Webster/environment"), OPTIONAL): NOT_RUN: click(findTestObject("Page_Furniture  Homewares Online at Beautiful Prices  Temple  Webster/environment"), OPTIONAL)
+
+2019-11-19 16:51:56 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Page_Furniture  Homewares Online at Beautiful Prices  Temple  Webster/environment"), OPTIONAL)
+
+2019-11-19 16:51:56 - [TEST_STEP][NOT_RUN] - selectOptionByLabel(findTestObject("Page_Furniture  Homewares Online at Beautiful Prices  Temple  Webster/environment"), ENV, false, OPTIONAL): NOT_RUN: selectOptionByLabel(findTestObject("Page_Furniture  Homewares Online at Beautiful Prices  Temple  Webster/environment"), ENV, false, OPTIONAL)
+
+2019-11-19 16:51:56 - [MESSAGE][NOT_RUN] - NOT_RUN: selectOptionByLabel(findTestObject("Page_Furniture  Homewares Online at Beautiful Prices  Temple  Webster/environment"), ENV, false, OPTIONAL)
+
+2019-11-19 16:51:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Living Room Furniture/Page_Furniture  Homewares Online at Beautif_0bdae4/a_Shopproducts")): Object: 'Object Repository/Living Room Furniture/Page_Furniture  Homewares Online at Beautif_0bdae4/a_Shopproducts' is clicked on
+
+2019-11-19 16:51:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Living Room Furniture/Page_Furniture  Homewares Online at Beautif_0bdae4/a_Shopproducts' is clicked on
+
+2019-11-19 16:51:59 - [TEST_STEP][PASSED] - delay(4): Delayed 4 second(s)
+
+2019-11-19 16:52:03 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2019-11-19 16:52:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Living Room Furniture/Page_Furniture  Homewares Online at Beautif_0bdae4/a_Living Room Furniture"), OPTIONAL): Object: 'Object Repository/Living Room Furniture/Page_Furniture  Homewares Online at Beautif_0bdae4/a_Living Room Furniture' is clicked on
+
+2019-11-19 16:52:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Living Room Furniture/Page_Furniture  Homewares Online at Beautif_0bdae4/a_Living Room Furniture' is clicked on
+
+2019-11-19 16:52:05 - [TEST_STEP][PASSED] - verifyTextPresent("Living Room Furniture", false): Text 'Living Room Furniture' is present on page 
+
+2019-11-19 16:52:08 - [MESSAGE][PASSED] - Text 'Living Room Furniture' is present on page 
+
+2019-11-19 16:52:08 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-11-19 16:52:09 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sale_page_chrome_ff" time="16.745" classname="Test Cases/Sale_page_chrome_ff" status="PASSED">
+         <system-out><![CDATA[2019-11-19 16:52:09 - [TEST_CASE][PASSED] - Test Cases/Sale_page_chrome_ff: Test Cases/Sale_page_chrome_ff
+
+2019-11-19 16:52:09 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-11-19 16:52:09 - [MESSAGE][INFO] - User set preference: ['os', 'Windows']
+
+2019-11-19 16:52:09 - [MESSAGE][INFO] - User set preference: ['os_version', '8.1']
+
+2019-11-19 16:52:09 - [MESSAGE][INFO] - User set preference: ['browser', 'Chrome']
+
+2019-11-19 16:52:09 - [MESSAGE][INFO] - User set preference: ['browser_version', '65.0']
+
+2019-11-19 16:52:09 - [MESSAGE][INFO] - User set preference: ['project', 'katalon-browserstack']
+
+2019-11-19 16:52:09 - [MESSAGE][INFO] - User set preference: ['name', 'katalon-test-suite-run']
+
+2019-11-19 16:52:09 - [MESSAGE][INFO] - Connecting to remote web server 'https://tempster:uEra7yo3oE873qt8ttbb@hub-cloud.browserstack.com/wd/hub' with type 'Selenium'
+
+2019-11-19 16:52:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-11-19 16:52:14 - [TEST_STEP][PASSED] - navigateToUrl(URL_PROD): Navigate to 'https://www.templeandwebster.com.au/' successfully
+
+2019-11-19 16:52:15 - [MESSAGE][PASSED] - Navigate to 'https://www.templeandwebster.com.au/' successfully
+
+2019-11-19 16:52:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Sale_page/Page_Furniture  Homewares Online at Beautif_0bdae4/a_Sale")): Object: 'Object Repository/Sale_page/Page_Furniture  Homewares Online at Beautif_0bdae4/a_Sale' is clicked on
+
+2019-11-19 16:52:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Sale_page/Page_Furniture  Homewares Online at Beautif_0bdae4/a_Sale' is clicked on
+
+2019-11-19 16:52:20 - [TEST_STEP][PASSED] - delay(4): Delayed 4 second(s)
+
+2019-11-19 16:52:24 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2019-11-19 16:52:24 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Sale_page/Page_Cheap Furniture  Furniture Sale  Temple  Webster/img_Stock clearance_blocklevel cms_single_img single_img js-lego-data"), 0): Object 'Object Repository/Sale_page/Page_Cheap Furniture  Furniture Sale  Temple  Webster/img_Stock clearance_blocklevel cms_single_img single_img js-lego-data' is present
+
+2019-11-19 16:52:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-11-19 16:52:25 - [MESSAGE][PASSED] - Object 'Object Repository/Sale_page/Page_Cheap Furniture  Furniture Sale  Temple  Webster/img_Stock clearance_blocklevel cms_single_img single_img js-lego-data' is present
+
+2019-11-19 16:52:25 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-11-19 16:52:25 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Search_functionality_barstools_IE" time="121.744" classname="Test Cases/Search_functionality_barstools_IE" status="PASSED">
+         <system-out><![CDATA[2019-11-19 16:52:25 - [TEST_CASE][PASSED] - Test Cases/Search_functionality_barstools_IE: Test Cases/Search_functionality_barstools_IE
+
+2019-11-19 16:52:26 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-11-19 16:52:26 - [MESSAGE][INFO] - User set preference: ['os', 'Windows']
+
+2019-11-19 16:52:26 - [MESSAGE][INFO] - User set preference: ['os_version', '8.1']
+
+2019-11-19 16:52:26 - [MESSAGE][INFO] - User set preference: ['browser', 'Chrome']
+
+2019-11-19 16:52:26 - [MESSAGE][INFO] - User set preference: ['browser_version', '65.0']
+
+2019-11-19 16:52:26 - [MESSAGE][INFO] - User set preference: ['project', 'katalon-browserstack']
+
+2019-11-19 16:52:26 - [MESSAGE][INFO] - User set preference: ['name', 'katalon-test-suite-run']
+
+2019-11-19 16:52:26 - [MESSAGE][INFO] - Connecting to remote web server 'https://tempster:uEra7yo3oE873qt8ttbb@hub-cloud.browserstack.com/wd/hub' with type 'Selenium'
+
+2019-11-19 16:52:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-11-19 16:52:31 - [TEST_STEP][PASSED] - navigateToUrl(URL_PROD): Navigate to 'https://www.templeandwebster.com.au/' successfully
+
+2019-11-19 16:52:33 - [MESSAGE][PASSED] - Navigate to 'https://www.templeandwebster.com.au/' successfully
+
+2019-11-19 16:52:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/search_functionality_barstools/Page_Furniture  Homewares Online at Beautif_0bdae4/input_keyword"), "bar stools"): Text 'bar stools' is set on object 'Object Repository/search_functionality_barstools/Page_Furniture  Homewares Online at Beautif_0bdae4/input_keyword'
+
+2019-11-19 16:52:35 - [MESSAGE][PASSED] - Text 'bar stools' is set on object 'Object Repository/search_functionality_barstools/Page_Furniture  Homewares Online at Beautif_0bdae4/input_keyword'
+
+2019-11-19 16:52:35 - [TEST_STEP][PASSED] - click(findTestObject("search_functionality_barstools/Page_Furniture  Homewares Online at Beautif_0bdae4/input_midtext fr wficonfont margin_sm_left")): Object: 'Object Repository/search_functionality_barstools/Page_Furniture  Homewares Online at Beautif_0bdae4/input_midtext fr wficonfont margin_sm_left' is clicked on
+
+2019-11-19 16:52:39 - [MESSAGE][PASSED] - Object: 'Object Repository/search_functionality_barstools/Page_Furniture  Homewares Online at Beautif_0bdae4/input_midtext fr wficonfont margin_sm_left' is clicked on
+
+2019-11-19 16:52:39 - [TEST_STEP][PASSED] - click(findTestObject("general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton"), OPTIONAL): Object: 'Object Repository/general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton' is clicked on
+
+2019-11-19 16:52:40 - [MESSAGE][PASSED] - Object: 'Object Repository/general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton' is clicked on
+
+2019-11-19 16:52:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search_functionality_barstools/Page_Furniture  Homewares Online at Beautif_0bdae4/input_midtext fr wficonfont margin_sm_left")): Object: 'Object Repository/search_functionality_barstools/Page_Furniture  Homewares Online at Beautif_0bdae4/input_midtext fr wficonfont margin_sm_left' is clicked on
+
+2019-11-19 16:52:42 - [MESSAGE][PASSED] - Object: 'Object Repository/search_functionality_barstools/Page_Furniture  Homewares Online at Beautif_0bdae4/input_midtext fr wficonfont margin_sm_left' is clicked on
+
+2019-11-19 16:52:42 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-11-19 16:52:43 - [MESSAGE][PASSED] - Current window maximized
+
+2019-11-19 16:52:43 - [TEST_STEP][PASSED] - click(findTestObject("general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton"), OPTIONAL): Unable to click on object 'Object Repository/general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:60)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:604)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Search_functionality_barstools_IE.run(Search_functionality_barstools_IE:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1574142706924.run(TempTestSuite1574142706924.groovy:36)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[CRemoteWebDriver: chrome on WINDOWS (5bc6a612c5f894471f785b3f97fdd90ab989a672)] -> xpath: //span[@id='fb-close']] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'TWNB112', ip: '192.168.33.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.SmartWaitWebDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Windows\proxy\scoped_dir...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true, webdriver.remote.sessionid: 5bc6a612c5f894471f785b3f97f...}
+Session ID: 5bc6a612c5f894471f785b3f97fdd90ab989a672
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:56)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:60)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:604)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1574137922953.run(Script1574137922953.groovy:34)
+	... 13 more
+)
+
+2019-11-19 16:53:14 - [MESSAGE][WARNING] - Unable to click on object 'Object Repository/general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:60)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:604)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Search_functionality_barstools_IE.run(Search_functionality_barstools_IE:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1574142706924.run(TempTestSuite1574142706924.groovy:36)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[CRemoteWebDriver: chrome on WINDOWS (5bc6a612c5f894471f785b3f97fdd90ab989a672)] -> xpath: //span[@id='fb-close']] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'TWNB112', ip: '192.168.33.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.SmartWaitWebDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Windows\proxy\scoped_dir...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true, webdriver.remote.sessionid: 5bc6a612c5f894471f785b3f97f...}
+Session ID: 5bc6a612c5f894471f785b3f97fdd90ab989a672
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:56)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:60)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:604)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1574137922953.run(Script1574137922953.groovy:34)
+	... 13 more
+)
+[[ATTACHMENT|C:\\Users\\abharathan\\git\\Katalon\\Reports\\20191119_165146\\Living_room_sale_link_check\\20191119_165146\\1574142794118.png]]
+
+2019-11-19 16:53:14 - [TEST_STEP][PASSED] - scrollToPosition(300, 400): Browser is scrolled to position x = 300, y = 400
+
+2019-11-19 16:53:14 - [MESSAGE][PASSED] - Browser is scrolled to position x = 300, y = 400
+
+2019-11-19 16:53:14 - [TEST_STEP][PASSED] - click(findTestObject("general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton"), OPTIONAL): Unable to click on object 'Object Repository/general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:60)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:604)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Search_functionality_barstools_IE.run(Search_functionality_barstools_IE:38)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1574142706924.run(TempTestSuite1574142706924.groovy:36)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[CRemoteWebDriver: chrome on WINDOWS (5bc6a612c5f894471f785b3f97fdd90ab989a672)] -> xpath: //span[@id='fb-close']] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'TWNB112', ip: '192.168.33.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.SmartWaitWebDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Windows\proxy\scoped_dir...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true, webdriver.remote.sessionid: 5bc6a612c5f894471f785b3f97f...}
+Session ID: 5bc6a612c5f894471f785b3f97fdd90ab989a672
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:56)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:60)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:604)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1574137922953.run(Script1574137922953.groovy:38)
+	... 13 more
+)
+
+2019-11-19 16:53:46 - [MESSAGE][WARNING] - Unable to click on object 'Object Repository/general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:60)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:604)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Search_functionality_barstools_IE.run(Search_functionality_barstools_IE:38)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1574142706924.run(TempTestSuite1574142706924.groovy:36)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[CRemoteWebDriver: chrome on WINDOWS (5bc6a612c5f894471f785b3f97fdd90ab989a672)] -> xpath: //span[@id='fb-close']] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'TWNB112', ip: '192.168.33.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.SmartWaitWebDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Windows\proxy\scoped_dir...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true, webdriver.remote.sessionid: 5bc6a612c5f894471f785b3f97f...}
+Session ID: 5bc6a612c5f894471f785b3f97fdd90ab989a672
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:56)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:60)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:604)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1574137922953.run(Script1574137922953.groovy:38)
+	... 13 more
+)
+[[ATTACHMENT|C:\\Users\\abharathan\\git\\Katalon\\Reports\\20191119_165146\\Living_room_sale_link_check\\20191119_165146\\1574142825675.png]]
+
+2019-11-19 16:53:46 - [TEST_STEP][PASSED] - click(findTestObject("Page_Bar Stools  Temple  Webster/white colour")): Object: 'Object Repository/Page_Bar Stools  Temple  Webster/white colour' is clicked on
+
+2019-11-19 16:53:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bar Stools  Temple  Webster/white colour' is clicked on
+
+2019-11-19 16:53:47 - [TEST_STEP][PASSED] - click(findTestObject("general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton"), OPTIONAL): Unable to click on object 'Object Repository/general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:60)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:604)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Search_functionality_barstools_IE.run(Search_functionality_barstools_IE:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1574142706924.run(TempTestSuite1574142706924.groovy:36)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[CRemoteWebDriver: chrome on WINDOWS (5bc6a612c5f894471f785b3f97fdd90ab989a672)] -> xpath: //span[@id='fb-close']] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'TWNB112', ip: '192.168.33.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.SmartWaitWebDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Windows\proxy\scoped_dir...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true, webdriver.remote.sessionid: 5bc6a612c5f894471f785b3f97f...}
+Session ID: 5bc6a612c5f894471f785b3f97fdd90ab989a672
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:56)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:60)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:604)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1574137922953.run(Script1574137922953.groovy:42)
+	... 13 more
+)
+
+2019-11-19 16:54:18 - [MESSAGE][WARNING] - Unable to click on object 'Object Repository/general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/general/Page_Bar Stools  Temple  Webster/popupwindowcrossbutton'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:60)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:604)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Search_functionality_barstools_IE.run(Search_functionality_barstools_IE:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1574142706924.run(TempTestSuite1574142706924.groovy:36)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[CRemoteWebDriver: chrome on WINDOWS (5bc6a612c5f894471f785b3f97fdd90ab989a672)] -> xpath: //span[@id='fb-close']] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'TWNB112', ip: '192.168.33.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.SmartWaitWebDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Windows\proxy\scoped_dir...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true, webdriver.remote.sessionid: 5bc6a612c5f894471f785b3f97f...}
+Session ID: 5bc6a612c5f894471f785b3f97fdd90ab989a672
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:56)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:60)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:604)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1574137922953.run(Script1574137922953.groovy:42)
+	... 13 more
+)
+[[ATTACHMENT|C:\\Users\\abharathan\\git\\Katalon\\Reports\\20191119_165146\\Living_room_sale_link_check\\20191119_165146\\1574142858458.png]]
+
+2019-11-19 16:54:18 - [TEST_STEP][PASSED] - delay(4): Delayed 4 second(s)
+
+2019-11-19 16:54:22 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2019-11-19 16:54:22 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2019-11-19 16:54:23 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2019-11-19 16:54:23 - [TEST_STEP][PASSED] - click(findTestObject("search_functionality_barstools/Page_Black Bar Stools  Temple  Webster/firstsearchresult")): Object: 'Object Repository/search_functionality_barstools/Page_Black Bar Stools  Temple  Webster/firstsearchresult' is clicked on
+
+2019-11-19 16:54:24 - [MESSAGE][PASSED] - Object: 'Object Repository/search_functionality_barstools/Page_Black Bar Stools  Temple  Webster/firstsearchresult' is clicked on
+
+2019-11-19 16:54:24 - [TEST_STEP][PASSED] - verifyTextPresent("Barstool", true): Text 'Barstool' is present on page  using regular expression
+
+2019-11-19 16:54:26 - [MESSAGE][PASSED] - Text 'Barstool' is present on page  using regular expression
+
+2019-11-19 16:54:26 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-11-19 16:54:27 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-11-19 16:51:48 - [TEST_SUITE][PASSED] - Living_room_sale_link_check: Test Cases/Search_functionality_barstools_IE]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
