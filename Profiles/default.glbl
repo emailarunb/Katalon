@@ -4,4 +4,19 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'templeandwebster.com.au.twdev.io'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.templeandwebster.com.au/'</initValue>
+      <name>URL_PROD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'DEV-SPARE02'</initValue>
+      <name>ENV</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
